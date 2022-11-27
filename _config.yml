@@ -41,3 +41,8 @@ texture:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+comment:
+  provider:            "disqus"
+  disqus:
+    shortname:         "jerome132"
